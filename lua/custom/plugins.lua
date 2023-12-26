@@ -119,7 +119,7 @@ local plugins = {
     },
     config = function()
       require("chatgpt").setup({
-        api_key_cmd = "echo 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"
+        api_key_cmd = "echo 'api-key-goes-here'"
       })
     end
   }
