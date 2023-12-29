@@ -12,24 +12,45 @@ In the core_init.lua file, I enable line numbers and relative line numbers to ma
 
 install these via mason:
     󰄳  asmfmt
+    
     󰄳  black
+    
     󰄳  clang-format
+    
     󰄳  clangd
+    
     󰄳  codelldb
+    
     󰄳  css-lsp
+    
     󰄳  debugpy
+    
     󰄳  delve
+    
     󰄳  deno
+    
     󰄳  firefox-debug-adapter
+    
     󰄳  goimports
+    
     󰄳  golangci-lint
+    
     󰄳  golines
+    
     󰄳  gopls
+    
     󰄳  html-lsp
+    
     󰄳  lua-language-server
+    
     󰄳  mypy
+    
     󰄳  prettier
+    
     󰄳  pyright
+    
     󰄳  ruff
+    
     󰄳  stylua
+    
     󰄳  typescript-language-server
