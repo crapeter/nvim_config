@@ -123,7 +123,7 @@ local plugins = {
     },
     config = function()
       require("chatgpt").setup({
-        api_key_cmd = "echo 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"
+        api_key_cmd = "echo 'token goes here'"
       })
     end
   },
